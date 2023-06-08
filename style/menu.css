@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(7, 83, 58);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+form {
+    background-color: white;
+    height: 50vh;
+    padding: 5vh;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    
+}
+
+.botton-line {
+    border-bottom: 1px solid black;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width: 300px;
+}
+
+  
